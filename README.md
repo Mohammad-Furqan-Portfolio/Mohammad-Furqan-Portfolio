@@ -1,16 +1,25 @@
-### Hi there 👋
+def get_movie_by_index():
+    # Display movies in the selected genre
+    user_genre_choice = get_user_genre_choice()
+    movies_in_genre = get_movies_in_genre(user_genre_choice)
 
-<!--
-**Mohammad-Furqan-Portfolio/Mohammad-Furqan-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    print(f"\nMovies in the genre {user_genre_choice}:")
+    for index, movie in enumerate(movies_in_genre, start=1):
+        print(f"{index}: {movie['title']}")
 
-Here are some ideas to get you started:
+    # Ask user to select a movie by index
+    selected_movie_index = int(input("\nPlease enter the index of the movie you want details for: ")) - 1  # Subtracting 1 to make it a valid Python index
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    # Check if entered index is valid
+    if 0 <= selected_movie_index < len(movies_in_genre):
+        selected_movie = movies_in_genre[selected_movie_index]
+
+        # Print details of the selected movie
+        print("\nDetails of the selected movie:")
+        for key, value in selected_movie.items():
+            print(f"{key}, {value}")
+    else:
+        print("Invalid index provided!")
+
+# Call the function to test it
+get_movie_by_index()
