@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">As a dedicated Data Analyst, I am deeply immersed in the fascinating world of data, where I combine analytical rigor with a passion for discovering insights. Currently, I'm exploring beyond analysis, delving into Data Engineering by building robust data pipelines that ensure seamless data flow and integrity. Simultaneously, I am venturing into the realm of Data Science, applying machine learning algorithms to unravel complex patterns and drive intelligent decision-making. My GitHub space is a testament to this journey, showcasing projects that span these interrelated domains, reflecting my commitment to continuous learning and contributing to the ever-evolving data landscape.</h3>
+<h3 align="center">Bridging the Worlds of Data Analysis, Engineering, and Science to Uncover Insights and Drive Innovation</h3>
 
+- My passion lies in the full spectrum of the data cycle, from the intricacies of building and managing ETL pipelines and ensuring data cleanliness, to creating insightful reports and visualizations, and harnessing the power of Machine Learning. As a dedicated Data Analyst, I'm committed to exploring and mastering each facet of this cycle. My current focus includes enhancing data flow and integrity through Data Engineering and unlocking complex patterns through Data Science methodologies. My GitHub is a reflection of this diverse journey, displaying a range of projects that highlight my evolving skills and dedication to the field of data.
+
+- Feel free to delve into my repositories and reach out for collaborations or discussions around data-driven projects. I'm always open to connect and share insights on making the most out of data.
+  
 - 🔭 I’m currently working on [Multinational Retail Data Centralisation](https://github.com/Mohammad-Furqan-Portfolio/Multinational_Retail_Data_Centralisation)
 
 - 📫 How to reach me **mfurq10@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/mohammad-f-49185410b/</h3>
 <p align="left">
 </p>
 
