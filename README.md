@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate forecasting analyst in the supply chain industry</h3>
+<h3 align="center">As a dedicated Data Analyst, I am deeply immersed in the fascinating world of data, where I combine analytical rigor with a passion for discovering insights. Currently, I'm exploring beyond analysis, delving into Data Engineering by building robust data pipelines that ensure seamless data flow and integrity. Simultaneously, I am venturing into the realm of Data Science, applying machine learning algorithms to unravel complex patterns and drive intelligent decision-making. My GitHub space is a testament to this journey, showcasing projects that span these interrelated domains, reflecting my commitment to continuous learning and contributing to the ever-evolving data landscape.</h3>
 
 - 🔭 I’m currently working on [Multinational Retail Data Centralisation](https://github.com/Mohammad-Furqan-Portfolio/Multinational_Retail_Data_Centralisation)
 
